@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family:cursive;
+    color: black;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+section {
+    background-color: rgb(196, 192, 192);
+    margin-bottom: 12px;
+}
+
+.menu {
+    display: none;
+}
+
+.Chicken, .Beef, .Sushi {
+    border-bottom: 1px solid #000 ;
+}
